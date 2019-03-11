@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+  "name": "wikit",
+  "version": "1.0",
+  "description": "Search wiki on the go",
+  "icons": {
+    "128": "icon128.png",
+    "16": "icon16.png"
+  },
+  "background": {
+    "scripts": ["eventPage.js"],
+    "pesistent": false
+  },
+  "permissions": [
+    "tabs",
+    "contextMenus"
+  ]
+}
