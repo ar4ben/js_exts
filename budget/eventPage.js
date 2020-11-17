@@ -1,4 +1,4 @@
-const contextMenuItem = {
+const contextMenuItem2 = {
   id: 'spendMoney',
   title: 'SpendMoney',
   contexts: ['selection'],
